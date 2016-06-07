@@ -90,7 +90,7 @@ public class AdminLoginActivity extends AppCompatActivity implements LoaderCallb
             }
         });
 
-        mLoginFormView = findViewById(R.id.login_form);
+        mLoginFormView = findViewById(R.id.login);
         mProgressView = findViewById(R.id.login_progress);
     }
 

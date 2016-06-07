@@ -1,44 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?>
-<android.support.design.widget.CoordinatorLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:fitsSystemWindows="true"
-    tools:context="com.saisumit_vipul.library_digitizer.MainActivity">
+    android:background="#ffffff"
+    tools:context=".MainActivity">
 
-    <android.support.design.widget.AppBarLayout
-        android:layout_height="wrap_content"
-        android:layout_width="match_parent"
-        android:theme="@style/AppTheme.AppBarOverlay">
 
-        <android.support.v7.widget.Toolbar
-            android:id="@+id/toolbar"
-            android:layout_width="match_parent"
-            android:layout_height="?attr/actionBarSize"
-            android:background="?attr/colorPrimary"
-            app:popupTheme="@style/AppTheme.PopupOverlay" />
-
-    </android.support.design.widget.AppBarLayout>
-
-    <include layout="@layout/content_main"/>
-
-    <android.support.design.widget.FloatingActionButton
-        android:id="@+id/fab"
+    <TextView
+        android:layout_marginTop="50dp"
+        android:text="LOGIN AS "
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="bottom|end"
-        android:layout_margin="@dimen/fab_margin"
-        android:src="@android:drawable/ic_dialog_email" />
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_alignLeft="@+id/admin_id"
+        android:layout_alignStart="@+id/admin_id"
+        android:layout_marginLeft="20dp"
+        android:textSize="25dp"
+        android:textColor="#d91010"
+        android:layout_alignRight="@+id/admin_id"
+        android:layout_alignEnd="@+id/admin_id" />
 
-</android.support.design.widget.CoordinatorLayout>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Librarian "
+        android:id="@+id/admin_id"
+        android:width="150dp"
+        android:layout_marginTop="78dp"
+        android:layout_below="@+id/textView"
+        android:layout_alignLeft="@+id/stdent_id"
+        android:layout_alignStart="@+id/stdent_id"
+        android:onClick="load_login_page"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:width="150dp"
+        android:text="Student"
+        android:id="@+id/stdent_id"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
 
 
 
-<!--
-
-
--->
-
+</RelativeLayout>
 
