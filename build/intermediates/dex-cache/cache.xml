@@ -1,2 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="C:\Users\VIPUL\AndroidStudioProjects\Library-digitizer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0abdef012321c939955c5e1ec7907743d97a85c7">
+        <dex dex="C:\Users\VIPUL\AndroidStudioProjects\Library-digitizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_de1c6189c092efc4e8351a76145287a90664b4c4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\VIPUL\AndroidStudioProjects\Library-digitizer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\VIPUL\AndroidStudioProjects\Library-digitizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_b054958a5f8f54221bc9ed8946a08aa61e1799ff\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\VIPUL\AndroidStudioProjects\Library-digitizer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cce9873a83afc371ba34345ab2692e6c44279251">
+        <dex dex="C:\Users\VIPUL\AndroidStudioProjects\Library-digitizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ca7651edddccf2815d045af38f208ad8deacdc50\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\VIPUL\AndroidStudioProjects\Library-digitizer\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Users\VIPUL\AndroidStudioProjects\Library-digitizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.1_e6830cb33df49d933cb0a583484d5f45708733e3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\VIPUL\AndroidStudioProjects\Library-digitizer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\VIPUL\AndroidStudioProjects\Library-digitizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_eacf707b4213031aea72d7a64aad3a04f8b78e11\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\VIPUL\AppData\Local\Android\sdk3\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\VIPUL\AndroidStudioProjects\Library-digitizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_da7c5cc129afacee222a9a06aa195942cc9e212d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\VIPUL\AndroidStudioProjects\Library-digitizer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\VIPUL\AndroidStudioProjects\Library-digitizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_c7d3b87d65746c9556512133f39a07d8babb5b13\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\VIPUL\AndroidStudioProjects\Library-digitizer\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="C:\Users\VIPUL\AndroidStudioProjects\Library-digitizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.1_72241a42dd8dbf5d17592365c417518f549a9a76\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\VIPUL\AndroidStudioProjects\Library-digitizer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\VIPUL\AndroidStudioProjects\Library-digitizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_a05e2541ea7030c08dc474d384a7131a37691da9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\VIPUL\AndroidStudioProjects\Library-digitizer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\VIPUL\AndroidStudioProjects\Library-digitizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_581a0418824abfb4a80bc0a3029a39db025d6262\classes.dex" />
+    </item>
+
+</items>
